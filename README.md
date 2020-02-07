@@ -29,20 +29,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>SendEmailInvocable/README.md at master · VerticAU/SendEmailInvocable</title>
-    <meta name="description" content="Contribute to VerticAU/SendEmailInvocable development by creating an account on GitHub.">
+  <title>vertic-common-mdapi/README.md at master · VerticAU/vertic-common-mdapi</title>
+    <meta name="description" content="Vertic Common Framework. Contribute to VerticAU/vertic-common-mdapi development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/16659964?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="VerticAU/SendEmailInvocable" /><meta name="twitter:description" content="Contribute to VerticAU/SendEmailInvocable development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/16659964?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="VerticAU/SendEmailInvocable" /><meta property="og:url" content="https://github.com/VerticAU/SendEmailInvocable" /><meta property="og:description" content="Contribute to VerticAU/SendEmailInvocable development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/16659964?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="VerticAU/vertic-common-mdapi" /><meta name="twitter:description" content="Vertic Common Framework. Contribute to VerticAU/vertic-common-mdapi development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/16659964?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="VerticAU/vertic-common-mdapi" /><meta property="og:url" content="https://github.com/VerticAU/vertic-common-mdapi" /><meta property="og:description" content="Vertic Common Framework. Contribute to VerticAU/vertic-common-mdapi development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDkyMDY3OTg5OjhlZDhkZGE5YzdiYmM3ZTBkMzVmMDdhODlkN2Q0YTk1YmVhNzQ0ZGYwNmRjNWQ1ZGMwYjliNGViMzhhZGQ5ZjM=--311b9e3caf0e366e949824b505f49e83f8187126">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDkyMDY3OTg5OmZmZGQyOGUzN2FjODc1NzlmMmYwMzNmMGY2ZGUzYWM1NTFiYTQyMjliMWE1MTY4MmM2M2RiNGJmY2I4NDllYWY=--083ef93ba0d8487b7ff4472de46ec105a8e6837b">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-    <meta name="request-id" content="C81D:31344:10BE18B:193AB55:5E3D5485" data-pjax-transient="true" /><meta name="html-safe-nonce" content="77154e76f176bfe7ea00e6b9bddd2bbb2636aeb0" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9WZXJ0aWNBVS9TZW5kRW1haWxJbnZvY2FibGUiLCJyZXF1ZXN0X2lkIjoiQzgxRDozMTM0NDoxMEJFMThCOjE5M0FCNTU6NUUzRDU0ODUiLCJ2aXNpdG9yX2lkIjoiNzE5NTY4NTUwMzcyMjUxODAwOSIsInJlZ2lvbl9lZGdlIjoiYW1zIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="bd8a0db7b597f7ed98b5abc7a59ecadf30f454bfa06c6d5f510ad2980755dca7" data-pjax-transient="true" />
+    <meta name="request-id" content="C85C:3133F:EDC73F:1667E02:5E3D5668" data-pjax-transient="true" /><meta name="html-safe-nonce" content="77154e76f176bfe7ea00e6b9bddd2bbb2636aeb0" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9WZXJ0aWNBVS92ZXJ0aWMtY29tbW9uLW1kYXBpIiwicmVxdWVzdF9pZCI6IkM4NUM6MzEzM0Y6RURDNzNGOjE2NjdFMDI6NUUzRDU2NjgiLCJ2aXNpdG9yX2lkIjoiNzE5NTY4NTUwMzcyMjUxODAwOSIsInJlZ2lvbl9lZGdlIjoiYW1zIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="f9769083e151092a19f6991bc9a2d8820e6fb52568a542ce0832dfbdd8b39da6" data-pjax-transient="true" />
 
 
 
@@ -76,21 +76,21 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="N2UwZjM3NzJlMzIwNzIzYzk4NmU0ODI2MWJlNmYyZDdkMzZlNDdlNjQ0YWFiM2Y2YWExZmE0NWE4ZDg4NmZhM3x7InJlbW90ZV9hZGRyZXNzIjoiOTMuMTkxLjEwMi4xMDYiLCJyZXF1ZXN0X2lkIjoiQzgxRDozMTM0NDoxMEJFMThCOjE5M0FCNTU6NUUzRDU0ODUiLCJ0aW1lc3RhbXAiOjE1ODEwNzc2NDQsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YmU0NTUyM2E2MjM1ODRjYmM5MGYxMDlkMjUzZmVmYzFlZDZiMmE4YjgzMjdhZGM2NGQ1Y2VlNGJmOTBlODY2N3x7InJlbW90ZV9hZGRyZXNzIjoiOTMuMTkxLjEwMi4xMDYiLCJyZXF1ZXN0X2lkIjoiQzg1QzozMTMzRjpFREM3M0Y6MTY2N0UwMjo1RTNENTY2OCIsInRpbWVzdGFtcCI6MTU4MTA3ODEyOCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
   <meta http-equiv="x-pjax-version" content="a71740efa5666dfe513df068cb5103f9">
   
 
-      <link href="https://github.com/VerticAU/SendEmailInvocable/commits/master.atom" rel="alternate" title="Recent Commits to SendEmailInvocable:master" type="application/atom+xml">
+      <link href="https://github.com/VerticAU/vertic-common-mdapi/commits/master.atom?token=AE4LGEBV432LLBKMEUDTKRN4JKEPA" rel="alternate" title="Recent Commits to vertic-common-mdapi:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/VerticAU/SendEmailInvocable git https://github.com/VerticAU/SendEmailInvocable.git">
+  <meta name="go-import" content="github.com/VerticAU/vertic-common-mdapi git https://github.com/VerticAU/vertic-common-mdapi.git">
 
-  <meta name="octolytics-dimension-user_id" content="16659964" /><meta name="octolytics-dimension-user_login" content="VerticAU" /><meta name="octolytics-dimension-repository_id" content="238912466" /><meta name="octolytics-dimension-repository_nwo" content="VerticAU/SendEmailInvocable" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="238912466" /><meta name="octolytics-dimension-repository_network_root_nwo" content="VerticAU/SendEmailInvocable" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+  <meta name="octolytics-dimension-user_id" content="16659964" /><meta name="octolytics-dimension-user_login" content="VerticAU" /><meta name="octolytics-dimension-repository_id" content="161679836" /><meta name="octolytics-dimension-repository_nwo" content="VerticAU/vertic-common-mdapi" /><meta name="octolytics-dimension-repository_public" content="false" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="161679836" /><meta name="octolytics-dimension-repository_network_root_nwo" content="VerticAU/vertic-common-mdapi" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -145,7 +145,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="238912466" data-scoped-search-url="/VerticAU/SendEmailInvocable/search" data-unscoped-search-url="/search" action="/VerticAU/SendEmailInvocable/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="161679836" data-scoped-search-url="/VerticAU/vertic-common-mdapi/search" data-unscoped-search-url="/search" action="/VerticAU/vertic-common-mdapi/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -163,7 +163,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-            <input type="hidden" value="YgDPKZexbkvWx1gkq7ec+zKH5Ve4X83aq30Y7I7v6WoCDbnfMogkZ4KL4ELEti7nIXMIiELRvZnX6/HdF7jQeg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+            <input type="hidden" value="Z/eHeEBBSh40/WW7AdHbSFttAajSR7jcaTFkX6Vh/+AH+vGO5XgAMmCx3d1u0GlUSJnsdyjJyJ8Vp41uPDbG8A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -314,7 +314,7 @@
       <img class="avatar" height="20" width="20" alt="@axelf3000GT" src="https://avatars2.githubusercontent.com/u/20493072?s=60&amp;v=4" />
       axelf3000GT
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5Hstn1jC7Lnq1eod8iei3Sz8WqDcG9iailfxHVrgQF+KOl8zmEN2L5DRwoWm2bXJrdlFdEUyTN0L7Q5oKVWjWg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="V7Uv+VcPISVU8DR6f86QAgEjp3ZCSNup6Z8sl4Sa1J459F1Vl467sy70HOIrMIcWgAa4otthT+5oJdPi9y83mw==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -325,10 +325,10 @@
 
     <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
       <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
-              <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+              <svg class="octicon octicon-lock" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 13H3v-1h1v1zm8-6v7c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h1V4c0-2.2 1.8-4 4-4s4 1.8 4 4v2h1c.55 0 1 .45 1 1zM3.8 6h4.41V4c0-1.22-.98-2.2-2.2-2.2-1.22 0-2.2.98-2.2 2.2v2H3.8zM11 7H2v7h9V7zM4 8H3v1h1V8zm0 2H3v1h1v-1z"/></svg>
     <a class="Header-link" href="/VerticAU">VerticAU</a>
     /
-    <a class="Header-link" href="/VerticAU/SendEmailInvocable">SendEmailInvocable</a>
+    <a class="Header-link" href="/VerticAU/vertic-common-mdapi">vertic-common-mdapi</a>
 
 </div>
     </div>
@@ -371,9 +371,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="VerticAU/SendEmailInvocable">This repository</span>
+    <span title="VerticAU/vertic-common-mdapi">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/VerticAU/SendEmailInvocable/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/VerticAU/vertic-common-mdapi/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -406,7 +406,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:16659964,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:20493072,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;}}" data-hydro-click-hmac="4ad96f38a39eff3ef1000a8e5d41278cb321702e34a0f146d87b75fbc5e36977">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:16659964,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:20493072,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;}}" data-hydro-click-hmac="de927737cb7120c3f05e9e83a59a744a488fde3a3777d3caca24d905fe86de8e">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -433,7 +433,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="2MPmR0TQgelUlL5JtnpP4ERLbZlGswgQ0YkSf0yae/hcn85RlmntxJygRziQc1cRTZgahNqDChwLIsoha1C+SQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="pTcwKuOjHdogvS1nvr4+c9cpIgfecgf5ES5Yy2uaCfQhaxg8MRpx9+iJ1BaYtyaC3vpVGkJCBfXLhYCVTFDMRQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -551,17 +551,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-07T15:44:04+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-07T15:52:08+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-07T16:14:04+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-07T16:22:08+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-07T19:14:04+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-07T19:22:08+03:00">
             in 4 hours
           </button>
         </li>
@@ -619,10 +619,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/axelf3000GT/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}"
-    data-feature-preview-close-hmac="d62caccac1dd85650d186ac8ffedf696a8f2163aabf7c0f9b804c5cd5aa5b3e9"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}"
-    data-hydro-click-hmac="ba94c3277637a02374a6b05b14588385ce248df0c308dca930f7b8d891faee81"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}"
+    data-feature-preview-close-hmac="2cae9182eeca98341b60157b5199998ae28ffa4f0c2a657e72816e2c548f0d25"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}"
+    data-hydro-click-hmac="2fbf7222c13e9b4243c8f96a626355686307d52a81bdd5309efed09b62ca46f0"
   >
     Feature preview
   </button>
@@ -631,12 +631,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gQAPR0uaqxsqvE2Y+jsko996Z+wzAmS+PJVsUbjGqobvQX3rixsxjVC4ZQCuxTO3Xl94OKor8Pm9L5Mky3NJgw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="51kT/fwYgtbKO3dqtgzbUyy8gEuIBWKI9bDPzAGQKs6JGGFRPJkYQLA/X/Li8sxHrZmfnxEs9s90CjC5ciXJyw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_c41e" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1581077644286" class="form-control" /><input type="hidden" name="timestamp_secret" value="7e2bd5549d665e771310301be75601299822638817e3681d96cba0b74e89497f" class="form-control" />
+      <input type="text" name="required_field_e561" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1581078128680" class="form-control" /><input type="hidden" name="timestamp_secret" value="30547556270305dbfab36301eb93106d5ba3d7f281dd0681768d6051891878e4" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -665,21 +665,6 @@
 
   
 
-      <div class="border-bottom shelf intro-shelf js-notice mb-0 pb-4">
-  <div class="width-full container">
-    <div class="width-full mx-auto shelf-content">
-      <h2 class="shelf-title">Learn Git and GitHub without any code!</h2>
-      <p class="shelf-lead">
-          Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-      </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:238912466,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="54342d56b076f32d7746d2a1c90ddfb5bf9ee5c9936d9e07f65f0e576d6dc195" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
-    </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="7fnGAgIFAsOSxacXl2cjZGhfm3qH1FRZOKHQzsusIt0gjUmkF10D4K0uJc4+wO8yg31cxgKQTDEoeL4WPHaE/Q==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:238912466,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="47a03805ea88802f58033cdf0e81bb26151fde708c841fa68af30a5eb8b1294d">
-        <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-</button></form>  </div>
-</div>
-
 
 
   
@@ -697,16 +682,16 @@
     <div class="container-lg mb-4 p-responsive d-none d-lg-flex">
 
       <div class="flex-auto min-width-0 width-fit mr-3">
-        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
-    <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+        <h1 class="private  d-flex flex-wrap flex-items-center break-word float-none ">
+    <svg class="octicon octicon-lock" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 13H3v-1h1v1zm8-6v7c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h1V4c0-2.2 1.8-4 4-4s4 1.8 4 4v2h1c.55 0 1 .45 1 1zM3.8 6h4.41V4c0-1.22-.98-2.2-2.2-2.2-1.22 0-2.2.98-2.2 2.2v2H3.8zM11 7H2v7h9V7zM4 8H3v1h1V8zm0 2H3v1h1v-1z"/></svg>
   <span class="author ml-1 flex-self-stretch" itemprop="author">
     <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/VerticAU/hovercard" href="/VerticAU">VerticAU</a>
   </span>
   <span class="path-divider flex-self-stretch">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" href="/VerticAU/SendEmailInvocable">SendEmailInvocable</a>
+    <a data-pjax="#js-repo-pjax-container" href="/VerticAU/vertic-common-mdapi">vertic-common-mdapi</a>
   </strong>
-  
+  <span class="Label Label--outline v-align-middle ">Private</span>
 </h1>
 
 
@@ -716,17 +701,13 @@
 
 
 
-    <li hidden>
-      <include-fragment src="/VerticAU/SendEmailInvocable/used_by_count" accept="text/fragment+html">
-</include-fragment>
-    </li>
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Z+B5PswxQC2McyDI8PFrUj6fzky3Xs3pp7dcZhUAwQ8X/NnncNbi9UY8OD4WMQaOJ8WB8EKfTJjSYuomIs3s8w==" />      <input type="hidden" name="repository_id" value="238912466">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="IjYErWrpO43YKXCBS1fwgWDab/h4SBlPzS3ayQfm3gxSKqR01g6ZVRJmaHetl51deYAgRI2JmD64+GyJMCvz8A==" />      <input type="hidden" name="repository_id" value="161679836">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:238912466,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="3b44de1f32aeca66f81fb3a1cd816f8964d8d822998067f217af0ec8f173254c" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:161679836,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="0fa2a3424f66b9800172f622e1addf367b24e7c71868b80d0bb00892fb3c5299" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Unwatch
           </span>
@@ -788,31 +769,31 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/VerticAU/SendEmailInvocable/watchers"
-          aria-label="5 users are watching this repository">
-          5
+          href="/VerticAU/vertic-common-mdapi/watchers"
+          aria-label="6 users are watching this repository">
+          6
         </a>
 </form>
   </li>
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/VerticAU/SendEmailInvocable/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="b4HtFZlHqCnIpPOCme2lNAcwLm6Gy6MsUjnCCV8B74TF2h8NPc/1sOQgdQ1+KsiHkUOSq0FISIp89qNkpEt6NQ==" />
+    <form class="starred js-social-form" action="/VerticAU/vertic-common-mdapi/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="61itzHRKTZaYAa5Sf5igxRqlQI4dmuk2Hm5Fqflm0jjH7ll75RNY6MgEeJS7VF+j3Pi4XXmuG419ck7jT8cWZA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar VerticAU/SendEmailInvocable" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:238912466,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="06543cf9b35cd69841b7ee929cc9ba5ab4bb8c5f6f2c3928b0c9ac090fbde5b4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar VerticAU/vertic-common-mdapi" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:161679836,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="d830d0ede1aed97701c0499da417ee89bddac81a435e57008c43f55dd179744c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Unstar
-</button>        <a class="social-count js-social-count" href="/VerticAU/SendEmailInvocable/stargazers"
+</button>        <a class="social-count js-social-count" href="/VerticAU/vertic-common-mdapi/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/VerticAU/SendEmailInvocable/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="122sZelGiHmmgK3hR4UXNDrDHVTQFPxG5ZjU3/76ri1eOSbXqkrw0hQnxXGJO/Bpj8yncSA52AYSBNCa+RIT+g==" />
+    <form class="unstarred js-social-form" action="/VerticAU/vertic-common-mdapi/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KnrBMow92kgejC9WHFp8N28spsGsEuwzJct3bbikC0KiPipbb4gbShyTolZjdDijOnQtOU31sS3GzX+bTr9c/g==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star VerticAU/SendEmailInvocable" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:238912466,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="3df0e5fb9ea94fa0428fc55c66f2e0813e972e9efc86cd54a580af1602e77b8e" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star VerticAU/vertic-common-mdapi" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:161679836,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="81c7b4c62c217073eef483aa559d1e3a7f2b3102b1744edd53632dbb7ec10b44" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Star
-</button>        <a class="social-count js-social-count" href="/VerticAU/SendEmailInvocable/stargazers"
+</button>        <a class="social-count js-social-count" href="/VerticAU/vertic-common-mdapi/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -822,28 +803,28 @@
 
   <li>
           <details class="details-reset details-overlay details-overlay-dark d-inline-block float-left">
-            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:238912466,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/SendEmailInvocable/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="317aa59a6928f0d8f6c5c61723366720df25c535d775f00ebf56055983d7e0b1" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of VerticAU/SendEmailInvocable to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:161679836,&quot;originating_url&quot;:&quot;https://github.com/VerticAU/vertic-common-mdapi/blob/master/README.md&quot;,&quot;user_id&quot;:20493072}}" data-hydro-click-hmac="c4c8357375b0eda85439c5c7641a567fa41a488dd2b7df6b734168786cc65c7c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of VerticAU/vertic-common-mdapi to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </summary>            <details-dialog
               class="anim-fade-in fast Box Box--overlay d-flex flex-column"
-              src="/VerticAU/SendEmailInvocable/fork?fragment=1"
+              src="/VerticAU/vertic-common-mdapi/fork?fragment=1"
               preload>
               <div class="Box-header">
                 <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
                   <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
                 </button>
-                <h3 class="Box-title">Fork SendEmailInvocable</h3>
+                <h3 class="Box-title">Fork vertic-common-mdapi</h3>
               </div>
               <div class="overflow-auto text-center">
                 <include-fragment>
                   <div class="octocat-spinner my-3" aria-label="Loading..."></div>
-                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/VerticAU/SendEmailInvocable/fork">the fork page</a> directly.</p>
+                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/VerticAU/vertic-common-mdapi/fork">the fork page</a> directly.</p>
                 </include-fragment>
               </div>
             </details-dialog>
           </details>
 
-    <a href="/VerticAU/SendEmailInvocable/network/members" class="social-count"
+    <a href="/VerticAU/vertic-common-mdapi/network/members" class="social-count"
        aria-label="0 users forked this repository">
       0
     </a>
@@ -859,14 +840,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /VerticAU/SendEmailInvocable" href="/VerticAU/SendEmailInvocable">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /VerticAU/vertic-common-mdapi" href="/VerticAU/vertic-common-mdapi">
       <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg></div>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /VerticAU/SendEmailInvocable/issues" href="/VerticAU/SendEmailInvocable/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /VerticAU/vertic-common-mdapi/issues" href="/VerticAU/vertic-common-mdapi/issues">
         <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg></div>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -875,7 +856,7 @@
 
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /VerticAU/SendEmailInvocable/pulls" href="/VerticAU/SendEmailInvocable/pulls">
+    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /VerticAU/vertic-common-mdapi/pulls" href="/VerticAU/vertic-common-mdapi/pulls">
       <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg></div>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -883,33 +864,30 @@
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left">
-      <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /VerticAU/SendEmailInvocable/actions" href="/VerticAU/SendEmailInvocable/actions">
+      <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /VerticAU/vertic-common-mdapi/actions" href="/VerticAU/vertic-common-mdapi/actions">
         <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"/></svg></div>
         Actions
 </a>
     </span>
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /VerticAU/SendEmailInvocable/projects" href="/VerticAU/SendEmailInvocable/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /VerticAU/vertic-common-mdapi/projects" href="/VerticAU/vertic-common-mdapi/projects">
       <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg></div>
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /VerticAU/SendEmailInvocable/wiki" href="/VerticAU/SendEmailInvocable/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /VerticAU/vertic-common-mdapi/wiki" href="/VerticAU/vertic-common-mdapi/wiki">
       <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg></div>
       Wiki
 </a>
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /VerticAU/SendEmailInvocable/network/alerts" href="/VerticAU/SendEmailInvocable/network/alerts">
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /VerticAU/vertic-common-mdapi/security/advisories" href="/VerticAU/vertic-common-mdapi/security/advisories">
       <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg></div>
       Security
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /VerticAU/SendEmailInvocable/pulse" href="/VerticAU/SendEmailInvocable/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /VerticAU/vertic-common-mdapi/pulse" href="/VerticAU/vertic-common-mdapi/pulse">
       <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg></div>
       Insights
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings /VerticAU/SendEmailInvocable/settings" href="/VerticAU/SendEmailInvocable/settings">
-      <div class="d-inline"><svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg></div>
-      Settings
-</a>
+
 </nav>
 
   <div class="reponav-wrapper reponav-small d-lg-none">
@@ -918,13 +896,13 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /VerticAU/SendEmailInvocable" href="/VerticAU/SendEmailInvocable">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /VerticAU/vertic-common-mdapi" href="/VerticAU/vertic-common-mdapi">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /VerticAU/SendEmailInvocable/issues" href="/VerticAU/SendEmailInvocable/issues">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /VerticAU/vertic-common-mdapi/issues" href="/VerticAU/vertic-common-mdapi/issues">
           <span itemprop="name">Issues</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="2">
@@ -932,42 +910,38 @@
 
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /VerticAU/SendEmailInvocable/pulls" href="/VerticAU/SendEmailInvocable/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /VerticAU/vertic-common-mdapi/pulls" href="/VerticAU/vertic-common-mdapi/pulls">
         <span itemprop="name">Pull requests</span>
         <span class="Counter">0</span>
         <meta itemprop="position" content="4">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /VerticAU/SendEmailInvocable/projects" href="/VerticAU/SendEmailInvocable/projects">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /VerticAU/vertic-common-mdapi/projects" href="/VerticAU/vertic-common-mdapi/projects">
           <span itemprop="name">Projects</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="5">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /VerticAU/SendEmailInvocable/actions" href="/VerticAU/SendEmailInvocable/actions">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /VerticAU/vertic-common-mdapi/actions" href="/VerticAU/vertic-common-mdapi/actions">
           <span itemprop="name">Actions</span>
           <meta itemprop="position" content="6">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /VerticAU/SendEmailInvocable/wiki" href="/VerticAU/SendEmailInvocable/wiki">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /VerticAU/vertic-common-mdapi/wiki" href="/VerticAU/vertic-common-mdapi/wiki">
           <span itemprop="name">Wiki</span>
           <meta itemprop="position" content="7">
 </a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /VerticAU/SendEmailInvocable/network/alerts" href="/VerticAU/SendEmailInvocable/network/alerts">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /VerticAU/vertic-common-mdapi/security/advisories" href="/VerticAU/vertic-common-mdapi/security/advisories">
         <span itemprop="name">Security</span>
         <meta itemprop="position" content="8">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /VerticAU/SendEmailInvocable/pulse" href="/VerticAU/SendEmailInvocable/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /VerticAU/vertic-common-mdapi/pulse" href="/VerticAU/vertic-common-mdapi/pulse">
         Pulse
 </a>
-      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /VerticAU/SendEmailInvocable/community" href="/VerticAU/SendEmailInvocable/community">
-          Community
-</a>      </span>
 
   </nav>
 </div>
@@ -984,9 +958,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/VerticAU/SendEmailInvocable/blob/6c8a97b6138b1fbb7dc172e9ece88c08396e3212/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/VerticAU/vertic-common-mdapi/blob/307e0e0342f2d9cf5ff9cf42fb3dc8f0af69fe25/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:bf8b18b65911a7f6563e5e16c4dc0161 -->
+    <!-- blob contrib key: blob_contributors:v21:839b04cde0f0826e387575d38108c40c -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
@@ -1001,7 +975,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/VerticAU/SendEmailInvocable/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/VerticAU/vertic-common-mdapi/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
@@ -1011,7 +985,7 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/VerticAU/SendEmailInvocable/find/master"
+          <a href="/VerticAU/vertic-common-mdapi/find/master"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
@@ -1023,11 +997,11 @@
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/VerticAU/SendEmailInvocable"><span>SendEmailInvocable</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/VerticAU/vertic-common-mdapi"><span>vertic-common-mdapi</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/VerticAU/SendEmailInvocable/find/master"
+        <a href="/VerticAU/vertic-common-mdapi/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -1043,16 +1017,45 @@
 
 
 
-    <include-fragment src="/VerticAU/SendEmailInvocable/contributors/master/README.md" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/dlisovsky/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dlisovsky"><img class="avatar" src="https://avatars2.githubusercontent.com/u/4610433?s=40&amp;v=4" width="20" height="20" alt="@dlisovsky" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/dlisovsky/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dlisovsky">dlisovsky</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="Update README.md" class="link-gray" href="/VerticAU/vertic-common-mdapi/commit/e62f56d1bd9c0f4e92d79131219adb559f4dc439">Update README.md</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/VerticAU/vertic-common-mdapi/commit/e62f56d1bd9c0f4e92d79131219adb559f4dc439" data-pjax>e62f56d</a>
+          <relative-time datetime="2018-12-13T18:44:36Z" class="no-wrap">Dec 13, 2018</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-          <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link">
+          <span><strong>1</strong> contributor</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/VerticAU/vertic-common-mdapi/contributors-list/master/README.md" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+    </div>
+  </div>
+
 
 
 
@@ -1070,9 +1073,9 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/VerticAU/SendEmailInvocable/raw/master/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/VerticAU/SendEmailInvocable/blame/master/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/VerticAU/SendEmailInvocable/commits/master/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/VerticAU/vertic-common-mdapi/raw/master/README.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/VerticAU/vertic-common-mdapi/blame/master/README.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/VerticAU/vertic-common-mdapi/commits/master/README.md">History</a>
     </div>
 
 
@@ -1084,15 +1087,15 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/VerticAU/SendEmailInvocable/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="79RSTUVle/yyYQ3SUPsMB3VlznQRe9vs5E6/5CvIsSxoL9GYZHnvgGQ2dEVXiMX8xvLcvoufEIhSh8vrQIN2vQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/VerticAU/vertic-common-mdapi/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1jEgg4tyFvy4JQhK6CnhNMzG+e3k7KbzQzCflqztW46+d0SJY0OmLHRQDPB069MwWoi6lpIj44RCOgGdIrrZAw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/VerticAU/SendEmailInvocable/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ymQSutHcduQdai+sbLld7lmYj58XMw6oA4gjftFTeP0FgUuSE0m4l+YaLw9Alzmcoc0Sk3Ykw149vT1GZFbAyg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/VerticAU/vertic-common-mdapi/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wU4HwKLzmrp4phbIAlENjKZ7fCJAfnCuumcjRgG+aN42n8MMNgvSg0/X1nOw5PPfo/b0XbI5zk8aFdL3+NF4hA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
+              aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
             </button>
 </form>    </div>
@@ -1104,9 +1107,9 @@
 
       
   <div id="readme" class="Box-body readme blob js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-send-email-invocable" class="anchor" aria-hidden="true" href="#send-email-invocable"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>send-email-invocable</h1>
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-vertic-common" class="anchor" aria-hidden="true" href="#vertic-common"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>vertic-common</h1>
 <p>Vertic Common Framework</p>
-<a href="https://githubsfdeploy.herokuapp.com?owner=VerticAU&amp;repo=send-email-invocable" rel="nofollow">
+<a href="https://githubsfdeploy.herokuapp.com?owner=VerticAU&amp;repo=vertic-common" rel="nofollow">
   <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png" style="max-width:100%;">
 </a>
 </article>
