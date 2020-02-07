@@ -1,5 +1,5 @@
-# vertic-common
-Vertic Common Framework
+# send-email-invocable
+Send Email Invocable
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=VerticAU&repo=send-email-invocable" target="_blank">
   <img alt="Deploy to Salesforce"
