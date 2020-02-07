@@ -1,6 +1,7 @@
 @IsTest
 private class SendEmailTemplateTest {
 
+
     @IsTest
     static void testBehavior() {
         Contact contactVar = new Contact(

@@ -1,5 +1,6 @@
 global class SendEmailTemplate {
-  
+
+
   @InvocableMethod(label='Send Email using Template')
   global static void sendEmail(List<EmailRequest> requests) {
       try{
